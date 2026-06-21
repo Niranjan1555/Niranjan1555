@@ -14,14 +14,14 @@
 ```python
 class Niranjan:
     name        = "Niranjan Puthineedi"
-    role        = "AIML Student | AI & Full Stack Developer"
+    role        = "AIML Student | Python & Full Stack Developer"
     university  = "Malla Reddy University"
     cgpa        = 8.61
     location    = "India 🇮🇳"
 
     interests   = [
         "Artificial Intelligence 🤖",
-        "Generative AI ✨",
+        "Front End Developer ✨",
         "Web Development 🌐",
         "Cloud Computing ☁️",
     ]
