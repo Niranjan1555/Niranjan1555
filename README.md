@@ -161,14 +161,15 @@ class Niranjan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjan1555&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1555&layout=compact&langs_count=8&theme=tokyo-night&hide_border=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjan1555&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1555&layout=compact&langs_count=8&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Niranjan1555&theme=tokyo-night&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan1555&theme=tokyo-night&hide_border=true" alt="Niranjan1555" />
 
 </div>
 
@@ -178,7 +179,7 @@ class Niranjan:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Niranjan1555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Niranjan1555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies" />
 
 </div>
 
