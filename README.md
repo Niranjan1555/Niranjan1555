@@ -16,7 +16,7 @@ class Niranjan:
     name        = "Niranjan Puthineedi"
     role        = "AIML Student | Python & Full Stack Developer"
     university  = "Malla Reddy University"
-    cgpa        = 8.65
+    cgpa        = 8.61
     location    = "India 🇮🇳"
 
     interests   = [
@@ -87,7 +87,6 @@ class Niranjan:
 ### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
@@ -121,7 +120,7 @@ class Niranjan:
     <td width="50%">
       <h3 align="center">🛍️ Letify – AI Based E-commerce Website</h3>
       <p align="center">
-        Developed an AI-powered e-commerce platform for browsing and ordering products. Improved user experience with intelligent features and recommendations. Designed an efficient and user-friendly interface.
+        Developed an AI-powered e-commerce platform for browsing and ordering products. Improved user experience with intelligent features and recommendations.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -162,14 +161,14 @@ class Niranjan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjan1555&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1555&layout=compact&langs_count=8&theme=tokyo-night&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjan1555&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1555&layout=compact&langs_count=8&theme=tokyo-night&hide_border=true&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Niranjan1555&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Niranjan1555&theme=tokyo-night&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
@@ -179,7 +178,7 @@ class Niranjan:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Niranjan1555&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Niranjan1555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -189,7 +188,7 @@ class Niranjan:
 
 <div align="center">
 
-[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1555&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1555&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -202,6 +201,7 @@ class Niranjan:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puthineedi-niranjan-000614370/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niranjan1555)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puthineediniranjan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://niranjan1555.github.io/Portfolio)
 
 </div>
 
