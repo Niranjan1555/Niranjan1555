@@ -16,7 +16,7 @@ class Niranjan:
     name        = "Niranjan Puthineedi"
     role        = "AIML Student | Python & Full Stack Developer"
     university  = "Malla Reddy University"
-    cgpa        = 8.61
+    cgpa        = 8.65
     location    = "India 🇮🇳"
 
     interests   = [
