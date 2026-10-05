@@ -1,217 +1,117 @@
 <div align="center">
+👋 Hi, I'm Niranjan Puthineedi
+AI/ML Student • Full-Stack Developer • Generative AI Enthusiast
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Niranjan+Puthineedi;AIML+Student+%7C+AI+%26+Full+Stack+Dev;Building+Intelligent+Solutions+%F0%9F%9A%80;Passionate+about+Generative+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
+Building intelligent, scalable, and user-focused applications with AI and modern web technologies.
 
-<img src="https://komarev.com/ghpvc/?username=Niranjan1555&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+<p> <a href="https://github.com/Niranjan1555"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/puthineedi-niranjan-000614370/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://niranjan1555.github.io/Portfolio"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:puthineediniranjan@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=Niranjan1555&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" /> </div>
+🧑‍💻 About Me
 
-</div>
+I'm an Artificial Intelligence & Machine Learning student at Malla Reddy University, passionate about turning ideas into practical software.
 
----
+My interests sit at the intersection of:
 
-## 🧑‍💻 About Me
+🤖 Artificial Intelligence & Machine Learning
 
-```python
+🧠 Generative AI, LLMs & RAG
+
+🌐 Full-Stack Web Development
+
+☁️ Cloud Computing & AWS
+
+🎨 Modern UI/UX
+
 class Niranjan:
-    name        = "Niranjan Puthineedi"
-    role        = "AIML Student | Python & Full Stack Developer"
-    university  = "Malla Reddy University"
-    cgpa        = 8.65
-    location    = "India 🇮🇳"
 
-    interests   = [
-        "Artificial Intelligence 🤖",
-        "Front End Developer ✨",
-        "Web Development 🌐",
-        "Cloud Computing ☁️",
+    role = "AI/ML Student & Full-Stack Developer"
+    university = "Malla Reddy University"
+    cgpa = 8.65
+    location = "India 🇮🇳"
+
+    interests = [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Full-Stack Development",
+        "Cloud Computing"
     ]
 
     currently_learning = [
-        "Large Language Models (LLMs)",
-        "Retrieval-Augmented Generation (RAG)",
-        "AWS Cloud Architecture",
-        "Advanced Deep Learning Techniques",
+        "LLMs & RAG",
+        "Advanced Deep Learning",
+        "AWS Architecture"
     ]
 
-    fun_fact    = "I turn coffee into AI models ☕ → 🧠"
-```
+    motto = "Build. Learn. Ship. Repeat. 🚀"
 
----
+🚀 What I'm Working On
 
-## 🎯 Current Goals
+🔭 Building AI-powered full-stack applications
 
-- 🔭 Building **AI-powered full-stack applications**
-- 🌱 Deep-diving into **Generative AI & LLMs**
-- 🏗️ Exploring **AWS cloud services** for scalable deployments
-- 🤝 Open to collaborating on **open-source AI/ML projects**
-- 💼 Seeking **internship & research opportunities** in AI/ML
+🧠 Exploring LLMs, RAG and Generative AI
 
----
+☁️ Learning to deploy scalable applications with AWS
 
-## 🛠️ Tech Stack & Skills
+🛠️ Improving my React, Python and backend development skills
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+🤝 Looking to collaborate on interesting AI/ML & open-source projects
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+💼 Open to AI/ML internships and research opportunities
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Responsive%20Design-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/CSS%20Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF6F61?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+⚡ Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,js" /> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" /> </p>
+AI / Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas" /> </p>
+Databases & Cloud
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" /> </p>
+🧠 Featured Projects
+🗳️ Electronic Voting System Using Blockchain
 
-### 🤖 AI / ML
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+A secure online voting platform designed around blockchain concepts, focusing on transparency, integrity, and tamper-resistant voting.
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+Focus: Blockchain React Web Development
 
-### ☁️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
-</p>
+🛍️ Letify — AI-Powered E-Commerce
 
----
+An AI-based e-commerce platform designed to improve product discovery and user experience through intelligent features and recommendations.
 
-## 🚀 Featured Projects
+Focus: Python React AI/ML
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🗳️ Electronic Voting System Using Blockchain</h3>
-      <p align="center">
-        Developed a secure online voting platform using blockchain concepts. Focused on transparency, security, and tamper-proof voting.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />
-        <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI-7AA2F7?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛍️ Letify – AI Based E-commerce Website</h3>
-      <p align="center">
-        Developed an AI-powered e-commerce platform for browsing and ordering products. Improved user experience with intelligent features and recommendations.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 UniConnect</h3>
-      <p align="center">
-        Built a frontend-based application integrated with AI models. Focused on intelligent recommendations and user interaction using ML techniques.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI-7AA2F7?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎵 Music Genre Classification (Deep Learning)</h3>
-      <p align="center">
-        A deep learning model that classifies music genres from audio signals using CNNs and spectrogram analysis, achieving high accuracy with TensorFlow.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-D00000?style=flat-square&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+🌍 UniConnect
 
----
+A frontend-focused application enhanced with AI/ML capabilities, designed around intelligent recommendations and improved user interaction.
 
-## 📊 GitHub Stats
+Focus: React Machine Learning AI
 
+🎵 Music Genre Classification
+
+A deep-learning system that classifies music genres from audio data using CNNs and spectrogram analysis.
+
+Focus: Python TensorFlow Deep Learning
+
+📊 GitHub
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Niranjan1555&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1555&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan1555&theme=tokyonight&hide_border=true" /> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Niranjan1555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1555&theme=tokyo-night&hide_border=true&area=true" /> </div>
+🤝 Let's Connect
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjan1555&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1555&layout=compact&langs_count=8&theme=tokyo-night&hide_border=true" />
+I'm always interested in discussing AI, software development, Generative AI, and interesting projects.
 
-</div>
-
+<br> <a href="https://www.linkedin.com/in/puthineedi-niranjan-000614370/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://niranjan1555.github.io/Portfolio"> <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:puthineediniranjan@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 <div align="center">
+💭
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan1555&theme=tokyo-night&hide_border=true" alt="Niranjan1555" />
+"Build things that make intelligence useful."
 
-</div>
+<br>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Niranjan1555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1555&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puthineedi-niranjan-000614370/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niranjan1555)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puthineediniranjan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://niranjan1555.github.io/Portfolio)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"The best way to predict the future is to create it — with AI."*
-
-⭐️ **If you find my work interesting, consider starring my repos!** ⭐️
+⭐ If you like my work, consider checking out my repositories!
 
 </div>
