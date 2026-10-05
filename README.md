@@ -1,62 +1,100 @@
 <div align="center">
 
-# Niranjan Puthineedi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Niranjan%20Puthineedi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Niranjan+Puthineedi;AI%2FML+Student;Full-Stack+Developer;Generative+AI+Enthusiast;Building+Intelligent+Software;Turning+Ideas+Into+Useful+Products" alt="Typing SVG" />
+
+<br/>
 
 ### AI/ML Student · Full-Stack Developer · Generative AI Enthusiast
 
-**Building intelligent, scalable, and practical software at the intersection of AI and modern web development.**
+<p>
+Building intelligent, scalable, and user-focused applications
+<br/>
+with AI and modern web technologies.
+</p>
 
 <br/>
 
 <a href="https://github.com/Niranjan1555">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/puthineedi-niranjan-000614370/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://niranjan1555.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:puthineediniranjan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Niranjan1555&label=PROFILE%20VIEWS&color=5B21B6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Niranjan1555&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am an **Artificial Intelligence & Machine Learning student at Malla Reddy University** with a strong interest in building real-world software products.
+I'm an **Artificial Intelligence & Machine Learning student at Malla Reddy University**, passionate about building practical software that combines intelligent systems with modern web technologies.
 
-My work combines **machine learning, generative AI, full-stack development, and cloud technologies** to create applications that are useful, scalable, and easy to use.
+My interests span **Artificial Intelligence, Generative AI, Machine Learning, Full-Stack Development, and Cloud Computing**.
 
-I enjoy taking an idea from **concept → architecture → implementation → deployment** and continuously improving it through experimentation and learning.
+I enjoy transforming ideas into working products — from designing the architecture and developing the application to integrating AI and deploying it to the cloud.
 
-### Current Focus
+```python
+class Niranjan:
 
-* Artificial Intelligence & Machine Learning
-* Generative AI, LLMs & Retrieval-Augmented Generation
-* Full-Stack Application Development
-* Cloud Computing & AWS
-* Deep Learning and applied AI
-* Modern software architecture
+    role = "AI/ML Student & Full-Stack Developer"
+    university = "Malla Reddy University"
+    cgpa = 8.65
+    location = "India"
+
+    interests = [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Machine Learning",
+        "Full-Stack Development",
+        "Cloud Computing"
+    ]
+
+    currently_learning = [
+        "LLMs & RAG",
+        "Advanced Deep Learning",
+        "AWS Architecture"
+    ]
+
+    philosophy = "Build. Learn. Ship. Improve."
+```
+
+---
+
+## What I'm Working On
+
+* Building **AI-powered full-stack applications**
+* Exploring **Large Language Models and RAG**
+* Developing applications with **Python and React**
+* Learning **AWS and cloud architecture**
+* Improving my knowledge of **deep learning and machine learning**
+* Exploring practical applications of **Generative AI**
+* Looking to collaborate on **AI/ML and open-source projects**
 
 ---
 
 ## Technical Skills
 
-### Programming
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
@@ -74,7 +112,7 @@ I enjoy taking an idea from **concept → architecture → implementation → de
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
 </p>
 
-### Development Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
@@ -82,52 +120,73 @@ I enjoy taking an idea from **concept → architecture → implementation → de
 
 ---
 
-## What I'm Currently Working On
-
-* Building **AI-powered full-stack applications**
-* Exploring **LLMs, RAG pipelines, and Generative AI**
-* Developing practical applications using **Python and React**
-* Learning **AWS architecture and cloud deployment**
-* Strengthening my knowledge of **deep learning and machine learning**
-* Contributing to interesting **AI/ML and open-source projects**
-
----
-
 ## Featured Projects
 
 ### Electronic Voting System Using Blockchain
 
-A secure web-based voting platform designed around blockchain principles to improve **transparency, integrity, and resistance to tampering**.
+A secure online voting platform designed around blockchain concepts, focusing on **transparency, integrity, and tamper resistance**.
 
-**Technologies:** `React` `Blockchain` `Web Development`
+**Technologies**
+
+`React` `Blockchain` `Web Development`
 
 ---
 
 ### Letify — AI-Powered E-Commerce
 
-An AI-focused e-commerce platform designed to enhance **product discovery and user experience** through intelligent features and recommendation-driven functionality.
+An AI-powered e-commerce platform designed to improve **product discovery and user experience** through intelligent features and recommendation-based functionality.
 
-**Technologies:** `Python` `React` `AI/ML`
+**Technologies**
+
+`Python` `React` `AI/ML`
 
 ---
 
 ### UniConnect
 
-A web application focused on improving user interaction through **AI/ML-powered functionality and intelligent recommendations**.
+A frontend-focused application enhanced with **AI/ML capabilities**, designed to improve user interaction through intelligent recommendations.
 
-**Technologies:** `React` `Machine Learning` `AI`
+**Technologies**
+
+`React` `Machine Learning` `AI`
 
 ---
 
 ### Music Genre Classification
 
-A deep-learning application that classifies music genres from audio data using **CNN-based models and spectrogram analysis**.
+A deep-learning system that classifies music genres from audio data using **CNN models and spectrogram analysis**.
 
-**Technologies:** `Python` `TensorFlow` `CNN` `Deep Learning`
+**Technologies**
+
+`Python` `TensorFlow` `CNN` `Deep Learning`
 
 ---
 
-## GitHub Activity
+## Education
+
+### Malla Reddy University
+
+**Bachelor of Technology — Artificial Intelligence & Machine Learning**
+
+**CGPA:** 8.65
+
+---
+
+## Areas of Interest
+
+<div align="center">
+
+| Artificial Intelligence |  Generative AI  | Machine Learning |
+| :---------------------: | :-------------: | :--------------: |
+|           LLMs          |       RAG       |   Deep Learning  |
+|  Full-Stack Development | Cloud Computing |        AWS       |
+|   Software Engineering  | Computer Vision |  AI Applications |
+
+</div>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -153,7 +212,7 @@ A deep-learning application that classifies music genres from audio data using *
 
 ---
 
-## Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
@@ -163,64 +222,45 @@ A deep-learning application that classifies music genres from audio data using *
 
 ---
 
-## Education
-
-**Malla Reddy University**
-
-**B.Tech — Artificial Intelligence & Machine Learning**
-
-**CGPA:** 8.65
-
----
-
-## Areas of Interest
-
-```text
-Artificial Intelligence
-Machine Learning
-Generative AI
-Large Language Models
-Retrieval-Augmented Generation
-Deep Learning
-Full-Stack Development
-Cloud Computing
-AWS
-Software Engineering
-```
-
----
-
 ## Career Interests
 
-I am interested in opportunities where I can work on:
+I'm interested in opportunities where I can work on:
 
-* AI/ML engineering
-* Generative AI applications
-* Machine learning research
-* Full-stack AI products
-* Cloud-based applications
-* Open-source software
+* **AI/ML Engineering**
+* **Generative AI**
+* **Machine Learning Research**
+* **AI-powered Full-Stack Applications**
+* **Cloud-based Software**
+* **Open-Source Projects**
 
-I am particularly interested in **internships, research opportunities, and collaborative projects** involving AI and software engineering.
+I'm currently open to **AI/ML internships, research opportunities, and collaborative technical projects**.
 
 ---
 
-## Connect With Me
+## Let's Connect
 
 <div align="center">
 
-I'm always open to discussing **AI, software engineering, Generative AI, research, and interesting technical projects.**
+I'm always interested in discussing **Artificial Intelligence, Generative AI, software engineering, research, and interesting technical projects.**
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/puthineedi-niranjan-000614370/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://niranjan1555.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-View-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+
 <a href="mailto:puthineediniranjan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Niranjan1555">
+<img src="https://img.shields.io/github/followers/Niranjan1555?label=Followers&style=flat-square&color=7C3AED" />
 </a>
 
 </div>
@@ -233,6 +273,10 @@ I'm always open to discussing **AI, software engineering, Generative AI, researc
 
 **Turning ideas into useful software with AI and modern technology.**
 
-⭐ Explore my repositories to see what I'm building.
+<br/>
+
+⭐ **If you find my work interesting, feel free to explore my repositories.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=100&section=footer" />
